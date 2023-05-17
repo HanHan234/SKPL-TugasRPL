@@ -1,0 +1,8 @@
+Estimasi pengerjaan pembuatan aplikasi: 1 bulan
+Dibagi kedalam 4 proses paralel:
+1. Design Frontend (Minggu pertama) & Backend + Database design
+2. Backend Programming (Minggu 2 - 4)
+3. Frontend Programming (Minggu 2 - 4)
+4. Testing & Bug Fixing (Minggu 4)
+
+Cara mendapatkan estimasi waktu tersebut berdasarkan pengalaman salah satu anggota kelmpok dalam membuat dan menyelesaikan project yang serupa.
